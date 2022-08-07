@@ -18,3 +18,4 @@ To also include a map where the user could see the places where these events hav
 Other functionalities:
 + The ability to export/print the filtered information and the graphs obtained from the filter information. 
 + It is recommended to link the information for automated update with the use of APIs. 
++ A droped down menu for entry validation 
