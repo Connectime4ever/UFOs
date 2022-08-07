@@ -1,21 +1,28 @@
 # UFOs
 ## Overview of the analysis
-### Looking for a more comprehensive analysis of UFO sightings, new filters should be added to the original dynamic table of the UFO website. 
-### The user will be able to filter the information not only by date but also by city, state, country and shape. 
-### The ability of using all these filters at once,results in more comprenhensive analysis and insights about this matter.  
+##### A more comprehensive analysis of UFO sightings was requested. In this sense, new filters are added to the original dynamic table of the UFO website. 
+##### The user will be able to filter the information not only by date but also by city, state, country and shape. 
+##### This new functionality would contribute to ease the analysis process and also facilitate the findings and insights about this matter. 
 
 ## Results
-How sb can use the new webpage by walking her through the process of using the search criteria. use images of your webpage during the filtering process to support your explanation.
+The dynamic table could be filtered by selecting any individual filter, a combination of several filters or all at once.  
+To initiate a new search the user could either click on the "Refresh button" on the left top corner of the screen, or just delete the filters, then type the new criteria and hit enter.
+Please see images below as reference. 
+![F1]()
+![F2]()
+![F3]()
+
 
 ## Summary
-Describe one drawback of this new desingn and two recomendations for further development.
-+ Drawbacks 
-+ The information on the website can  easily get outdated. The current code  requires a manual update of the information. 
-+ The output could be a long list. No visualizations are provided to the user. 
-+ Data visualization.  
-It would be very helpful to include different types of graph to make to make the analysis process easier. 
-To also include a map where the user could see the places where these events have been recorded. 
-Other functionalities:
-+ The ability to export/print the filtered information and the graphs obtained from the filter information. 
-+ It is recommended to link the information for automated update with the use of APIs. 
-+ A droped down menu for entry validation 
+#### ***Drawbacks on the Website Design.*** 
++ Having a dynamic table is definitely an improvement. Anyways, it is always helpful to add some visualizationso the design, especially in this example where some output could be still a long table. 
++ The information on the website can get easily outdated and/or require of manual updates.
++ The filters are case and space sensitive. 
++ The country filter could be removed as the scope of this website seems to be US.  
++ The date criteria does not give flexibility. It would be beneficial for the user to have a date range as a filter. 
+#### ***Some Recomendations for Further Development***
++ Data visualization. Including dynamic graph and maps  
++ To add other functionalities like the ability to export/print reports/charts with the filtered information.
++ To automate the website updates.
++ To add either a droped down menu for entry validation or spelling assistance, or other type of flexibility for the user when selecting the search criteria.
+
