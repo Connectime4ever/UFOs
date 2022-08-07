@@ -1,6 +1,7 @@
 // import the data from data.js
 const tableData = data;
-// Reference the HTML table using d3
+// Reference the tbody HTML tag using d3 to display the data in a table. We point our data to our HTML page.
+// declare a variable tbody and use d3.select to tell JavaScript to look for the tbody in the HTML.
 var tbody = d3.select("tbody");
 // Creating a new function. It is named after what it will do so we call it buildTable. 
 // We are passing in "data" as the argument. We had used the variable "data" in line 2 
